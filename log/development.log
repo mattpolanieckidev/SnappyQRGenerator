@@ -1,0 +1,1690 @@
+
+
+Started GET "/" for 127.0.0.1 at 2016-03-29 22:42:34 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (7.0ms)
+Completed 200 OK in 63ms (Views: 44.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-03-29 22:47:03 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 38ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-03-29 22:51:50 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
+Completed 200 OK in 36ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2016-03-29 23:02:22 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 3392ms (Views: 3366.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-03-29 23:02:26 -0400
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-03-29 23:02:26 -0400
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for 127.0.0.1 at 2016-03-29 23:02:26 -0400
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for 127.0.0.1 at 2016-03-29 23:02:26 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-03-29 23:02:26 -0400
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for 127.0.0.1 at 2016-03-29 23:02:26 -0400
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-03-29 23:02:26 -0400
+DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: :pages/home` to `controller: :pages/home`. (called from block in <top (required)> at c:/Sites/newtodo/newtodo/config/routes.rb:8)
+
+
+Started GET "/" for 127.0.0.1 at 2016-03-29 23:16:42 -0400
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 511ms (Views: 492.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-12-22 10:24:51 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 806ms (Views: 773.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-12-22 10:24:53 -0500
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2017-12-22 10:24:53 -0500
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2017-12-22 10:24:53 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2017-12-22 10:24:53 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2017-12-22 10:24:53 -0500
+
+
+Started GET "/assets/application.self-3a3c8b61bda630ee689740ce7cbd0dd8ea6fdd45e2c42eef4661ab38cf268afe.js?body=1" for ::1 at 2017-12-22 10:24:53 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-12-22 10:24:53 -0500
+
+
+Started GET "/" for ::1 at 2017-12-22 10:33:15 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (128.3ms)
+Completed 200 OK in 1430ms (Views: 1407.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/qr_codes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-12-22 10:33:17 -0500
+
+
+Started GET "/assets/application.self-a4f350afbe071dfb70baf237f7f6124e2f780571d2ee8646ee754177ce827513.css?body=1" for ::1 at 2017-12-22 10:33:17 -0500
+
+
+Started GET "/assets/qr_codes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-12-22 10:33:17 -0500
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 10:33:26 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JHi1ctQyFxrYY+D0iuj+Jh08ujZB+U22TyonjsBnbYDN6Adr/g51yCjcdPlIdW2MbuQMzdMhX8KCT4Rltenj4g==", "qr_code"=>{"text"=>"Daniel and Sara"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 190ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:34:09 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 62ms (Views: 62.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:34:55 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 62ms (Views: 61.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for 127.0.0.1 at 2017-12-22 10:39:19 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (37.4ms)
+Completed 500 Internal Server Error in 141ms
+
+ActionView::Template::Error (undefined local variable or method `expensive_products_path' for #<#<Class:0x764a270>:0x7653c48>):
+    3:         <%= menu_item "Home", root_path %>
+    4:         <%= menu_divider %>
+    5:         <%= drop_down "Products" do %>
+    6:             <%= menu_item "Things you can't afford", expensive_products_path %>
+    7:             <%= menu_item "Things that won't suit you anyway", harem_pants_path %>
+    8:             <%= menu_item "Things you're not even cool enough to buy anyway", hipster_products_path %>
+    9:             <% if current_user.lives_in_hackney? %>
+  app/views/qr_codes/new.html.erb:6:in `block (3 levels) in _app_views_qr_codes_new_html_erb___977612313_63912984'
+  app/views/qr_codes/new.html.erb:5:in `block (2 levels) in _app_views_qr_codes_new_html_erb___977612313_63912984'
+  app/views/qr_codes/new.html.erb:2:in `block in _app_views_qr_codes_new_html_erb___977612313_63912984'
+  app/views/qr_codes/new.html.erb:1:in `_app_views_qr_codes_new_html_erb___977612313_63912984'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (168.3ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (134.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (302.6ms)
+
+
+Started GET "/qr_codes/new" for 127.0.0.1 at 2017-12-22 10:39:29 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (20.1ms)
+Completed 500 Internal Server Error in 36ms
+
+ActionView::Template::Error (undefined local variable or method `expensive_products_path' for #<#<Class:0x764a270>:0x5d26670>):
+    3:         <%= menu_item "Home", root_path %>
+    4:         <%= menu_divider %>
+    5:         <%= drop_down "Products" do %>
+    6:             <%= menu_item "Things you can't afford", expensive_products_path %>
+    7:             <%= menu_item "Things that won't suit you anyway", harem_pants_path %>
+    8:             <%= menu_item "Things you're not even cool enough to buy anyway", hipster_products_path %>
+    9:             <% if current_user.lives_in_hackney? %>
+  app/views/qr_codes/new.html.erb:6:in `block (3 levels) in _app_views_qr_codes_new_html_erb___977612313_63912984'
+  app/views/qr_codes/new.html.erb:5:in `block (2 levels) in _app_views_qr_codes_new_html_erb___977612313_63912984'
+  app/views/qr_codes/new.html.erb:2:in `block in _app_views_qr_codes_new_html_erb___977612313_63912984'
+  app/views/qr_codes/new.html.erb:1:in `_app_views_qr_codes_new_html_erb___977612313_63912984'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (4.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (81.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (69.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (162.6ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:40:28 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (18.0ms)
+Completed 500 Internal Server Error in 32ms
+
+ActionView::Template::Error (undefined local variable or method `about_us_path' for #<#<Class:0x764a270>:0x5dd08d8>):
+    2:     <%= menu_group do %>
+    3:         <%= menu_item "Home", root_path %>
+    4:         <%= menu_divider %>
+    5:         <%= menu_item "About Us", about_us_path %>
+    6:         <%= menu_item "Contact", contact_path %>
+    7:     <% end %>
+    8:     <%= menu_group pull: :right do %>
+  app/views/qr_codes/new.html.erb:5:in `block (2 levels) in _app_views_qr_codes_new_html_erb___977612313_49256688'
+  app/views/qr_codes/new.html.erb:2:in `block in _app_views_qr_codes_new_html_erb___977612313_49256688'
+  app/views/qr_codes/new.html.erb:1:in `_app_views_qr_codes_new_html_erb___977612313_49256688'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (8.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (79.6ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (65.6ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (190.8ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:40:42 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (19.0ms)
+Completed 500 Internal Server Error in 30ms
+
+ActionView::Template::Error (undefined local variable or method `current_user' for #<#<Class:0x764a270>:0x67fe8a0>):
+    4:         <%= menu_divider %>
+    5:     <% end %>
+    6:     <%= menu_group pull: :right do %>
+    7:         <% if current_user %>
+    8:             <%= menu_item "Log Out", log_out_path %>
+    9:         <% else %>
+   10:             <%= form_for @user, url: session_path(:user), html => {class: "navbar-form pull-right"} do |f| -%>
+  app/views/qr_codes/new.html.erb:7:in `block (2 levels) in _app_views_qr_codes_new_html_erb___977612313_54518148'
+  app/views/qr_codes/new.html.erb:6:in `block in _app_views_qr_codes_new_html_erb___977612313_54518148'
+  app/views/qr_codes/new.html.erb:1:in `_app_views_qr_codes_new_html_erb___977612313_54518148'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (63.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (78.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (168.6ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:40:58 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (68.7ms)
+Completed 200 OK in 6602ms (Views: 6600.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-603f330c29af013305325569c8c75d03d688963abd8cde4fffec17b5ce417bfb.css?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-2fe4f8a61d73606fbcb036b41f380591906a4da65a9eb5ec0a210fe6980b2ca7.css?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-12-22 10:41:05 -0500
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-12-22 10:41:06 -0500
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-12-22 10:41:06 -0500
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-12-22 10:41:06 -0500
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-12-22 10:41:06 -0500
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2017-12-22 10:41:06 -0500
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:41:41 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 16ms
+
+SyntaxError (c:/Sites/newtodo/newtodo/app/views/qr_codes/new.html.erb:18: syntax error, unexpected keyword_ensure, expecting keyword_end
+c:/Sites/newtodo/newtodo/app/views/qr_codes/new.html.erb:20: syntax error, unexpected end-of-input, expecting keyword_end):
+  app/views/qr_codes/new.html.erb:18: syntax error, unexpected keyword_ensure, expecting keyword_end
+  app/views/qr_codes/new.html.erb:20: syntax error, unexpected end-of-input, expecting keyword_end
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (49.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (107.4ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (63.3ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (142.8ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:41:52 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 217ms (Views: 216.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:42:04 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 167ms (Views: 164.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:45:03 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 219ms (Views: 215.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:45:21 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 172ms (Views: 170.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:45:58 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 169ms (Views: 167.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:46:11 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 165ms (Views: 163.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:46:20 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 230ms (Views: 228.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:46:28 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 199ms (Views: 195.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:46:30 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 154ms (Views: 153.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:46:50 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 216ms (Views: 212.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:48:34 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 166ms (Views: 164.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:48:36 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 209ms (Views: 208.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:48:37 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 171ms (Views: 170.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:48:50 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (8.0ms)
+Completed 500 Internal Server Error in 23ms
+
+ActionView::Template::Error (wrong number of arguments (2 for 0..1)):
+    2: 
+    3: <html>
+    4: 
+    5: <%= nav_bar :top, brand: "QR Generator", responsive: true do %>
+    6:     <%= menu_group do %>
+    7:         <%= menu_item "Home", root_path %>
+    8:         <%= menu_divider %>
+  app/views/qr_codes/new.html.erb:5:in `_app_views_qr_codes_new_html_erb___977612313_65058516'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (71.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (63.6ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (143.3ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:48:56 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 12ms
+
+SyntaxError (c:/Sites/newtodo/newtodo/app/views/qr_codes/new.html.erb:5: syntax error, unexpected tLABEL
+...output_buffer.append=  nav_bar: :top, brand: "QR Generator",...
+...                               ^
+c:/Sites/newtodo/newtodo/app/views/qr_codes/new.html.erb:5: syntax error, unexpected ',', expecting keyword_end
+...r: :top, brand: "QR Generator", responsive: true do @output_...
+...                               ^
+c:/Sites/newtodo/newtodo/app/views/qr_codes/new.html.erb:35: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  app/views/qr_codes/new.html.erb:5: syntax error, unexpected tLABEL
+  app/views/qr_codes/new.html.erb:5: syntax error, unexpected ',', expecting keyword_end
+  app/views/qr_codes/new.html.erb:35: syntax error, unexpected keyword_ensure, expecting end-of-input
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (61.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (64.8ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (142.1ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:49:13 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 214ms (Views: 212.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 10:49:54 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"EMM5H1jVCoNzc/UQ5zRnQTYpn1UU46ill1qaqRJbDCj5U4sGculoUYPMYR0lqfTrRfEproY7utFaPzlCZ9WCSg==", "qr_code"=>{"text"=>"Test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 290ms (Views: 150.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:49:58 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 223ms (Views: 221.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes" for ::1 at 2017-12-22 10:50:44 -0500
+
+ActionController::RoutingError (No route matches [GET] "/qr_codes"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (13.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (3.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (152.9ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (63.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (146.5ms)
+
+
+Started GET "/qr_codes" for ::1 at 2017-12-22 10:51:02 -0500
+
+ActionController::RoutingError (No route matches [GET] "/qr_codes"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (88.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (65.3ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (148.9ms)
+
+
+Started GET "/qr_codes" for ::1 at 2017-12-22 10:51:15 -0500
+
+ActionController::RoutingError (No route matches [GET] "/qr_codes"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (87.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (62.2ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (142.3ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 10:51:21 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6L6A3cwGZcgHmklITf55z0kUOWTx76liqH5vgwFYy6ABLjLE5joHGvcl3UWPY+plOsyPn2M3uxZlG8xodNZFwg==", "qr_code"=>{"text"=>"Test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 286ms (Views: 146.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:51:55 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 155ms (Views: 155.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 10:52:02 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"v05fyhnjC0iXnO7pAVf0w4QOwGm/Zv0xPDFIgn+HAptW3u3TM99pmmcjeuTDymdp99Z2ki2+70XxVOtpCgmM+Q==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 292ms (Views: 150.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 10:52:20 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"v05fyhnjC0iXnO7pAVf0w4QOwGm/Zv0xPDFIgn+HAptW3u3TM99pmmcjeuTDymdp99Z2ki2+70XxVOtpCgmM+Q==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 305ms (Views: 151.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:52:32 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 171ms (Views: 169.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 10:53:27 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5qRBij56h1w237IZgWNaSzmXgvr/+O7cLJdphBv+IkoPNPOTFEbljsZgJhRD/snhSk80AW0g/Kjh8spvbnCsKA==", "qr_code"=>{"text"=>"Test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 293ms (Views: 153.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 10:53:37 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 162ms (Views: 162.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-12-22 11:42:06 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (140.1ms)
+Completed 200 OK in 3023ms (Views: 2985.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 11:42:15 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"oEN8oPWyts9ES2cpdMYDkiCqwARoqXLWBENm4VyauFdJ0865347UHbT08yS2W5A4U3J2//pxYKLJJsUKKRQ2NQ==", "qr_code"=>{"text"=>"Test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 249ms (Views: 159.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 11:42:23 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 159ms (Views: 158.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 11:42:53 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 174ms (Views: 173.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 11:43:05 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 223ms (Views: 221.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 11:44:13 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 174ms (Views: 173.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 11:44:32 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 177ms (Views: 176.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 11:45:21 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 191ms (Views: 191.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 11:45:56 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 224ms (Views: 223.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 11:46:33 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BgV3YBKUGEHBXBWYDYoMm1ljLQaEGQGPFb4kjBT6Oz7vlcV5OKh6kzHjgZXPF58xKrub/RbBE/vY24dnYXS1XA==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 291ms (Views: 199.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 11:46:36 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 155ms (Views: 154.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-12-22 15:06:48 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (143.4ms)
+Completed 200 OK in 9059ms (Views: 9030.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-603f330c29af013305325569c8c75d03d688963abd8cde4fffec17b5ce417bfb.css?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-2fe4f8a61d73606fbcb036b41f380591906a4da65a9eb5ec0a210fe6980b2ca7.css?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/application.self-a4f350afbe071dfb70baf237f7f6124e2f780571d2ee8646ee754177ce827513.css?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/qr_codes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/qr_codes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2017-12-22 15:06:59 -0500
+
+
+Started GET "/favicon.ico" for ::1 at 2017-12-22 15:06:59 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (11.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (210.8ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (76.6ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (202.1ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:07:10 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"3Le9D79B629aYgiKMlGgp7i1YlMFwYN1Sp1kukWDors1Jw8WlX2JvardnIfwzDMNy23UqJcZkQGH+MdRMA0s2Q==", "qr_code"=>{"text"=>"tesr"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 230ms (Views: 144.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:07:38 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 135ms (Views: 131.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:09:50 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 167ms (Views: 165.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:16:22 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 170ms (Views: 168.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:16:58 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 156ms (Views: 153.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:17:15 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 207ms (Views: 205.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:17:17 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 155ms (Views: 152.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:17:52 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 218ms (Views: 216.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:18:28 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 207ms (Views: 204.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:18:44 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 153ms (Views: 152.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:19:17 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 152ms (Views: 150.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:19:34 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 202ms (Views: 201.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:19:56 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 158ms (Views: 155.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:21:58 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 212ms (Views: 209.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:22:18 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 149ms (Views: 149.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:22:56 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 152ms (Views: 151.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:23:05 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"U2BwRe0mKyLrCiglV4t6L5By9Q7szugN69h+NEW3Som68MJcxxpJ8Bu1vCiVFumF46pD9X4W+nkmvd3fMDnE6w==", "qr_code"=>{"text"=>"Test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 272ms (Views: 160.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:23:15 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 143ms (Views: 142.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:23:30 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 207ms (Views: 206.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:23:43 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 154ms (Views: 153.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:23:51 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 160ms (Views: 159.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:26:03 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 157ms (Views: 156.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:26:37 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 190ms (Views: 190.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-603f330c29af013305325569c8c75d03d688963abd8cde4fffec17b5ce417bfb.css?body=1" for ::1 at 2017-12-22 15:26:37 -0500
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-2fe4f8a61d73606fbcb036b41f380591906a4da65a9eb5ec0a210fe6980b2ca7.css?body=1" for ::1 at 2017-12-22 15:26:37 -0500
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/application.self-a4f350afbe071dfb70baf237f7f6124e2f780571d2ee8646ee754177ce827513.css?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/qr_codes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/qr_codes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2017-12-22 15:26:38 -0500
+
+
+Started GET "/favicon.ico" for ::1 at 2017-12-22 15:26:38 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (77.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (95.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (165.6ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:27:13 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 195ms (Views: 193.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:27:41 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 150ms (Views: 150.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:28:18 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 155ms (Views: 153.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:28:24 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 148ms (Views: 146.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:28:40 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"PfVt1hY2FqvGJlqh02wtBEcGdCsCdy/5Wo8uB+r9bi/UZd/PPAp0eTaZzqwR8b6uNN7C0JCvPY2X6o3sn3PgTQ==", "qr_code"=>{"text"=>"Test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 289ms (Views: 198.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:28:44 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 142ms (Views: 141.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:29:06 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Oh54OWcUAeQpjYIQi/Yz48+vQl5WeQmBtLuvkooWolDTjsogTShjNtkyFh1Ja6BJvHf0pcShG/V53gx5/5gsMg==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 229ms (Views: 142.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:30:11 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Oh54OWcUAeQpjYIQi/Yz48+vQl5WeQmBtLuvkooWolDTjsogTShjNtkyFh1Ja6BJvHf0pcShG/V53gx5/5gsMg==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 473ms (Views: 328.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:31:12 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Oh54OWcUAeQpjYIQi/Yz48+vQl5WeQmBtLuvkooWolDTjsogTShjNtkyFh1Ja6BJvHf0pcShG/V53gx5/5gsMg==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 291ms (Views: 200.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:31:36 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Oh54OWcUAeQpjYIQi/Yz48+vQl5WeQmBtLuvkooWolDTjsogTShjNtkyFh1Ja6BJvHf0pcShG/V53gx5/5gsMg==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 309ms (Views: 151.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:31:58 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Oh54OWcUAeQpjYIQi/Yz48+vQl5WeQmBtLuvkooWolDTjsogTShjNtkyFh1Ja6BJvHf0pcShG/V53gx5/5gsMg==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 296ms (Views: 140.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:32:11 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Oh54OWcUAeQpjYIQi/Yz48+vQl5WeQmBtLuvkooWolDTjsogTShjNtkyFh1Ja6BJvHf0pcShG/V53gx5/5gsMg==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 230ms (Views: 138.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/twitter-bootstrap-static/bootstrap.self-603f330c29af013305325569c8c75d03d688963abd8cde4fffec17b5ce417bfb.css?body=1" for ::1 at 2017-12-22 15:32:11 -0500
+
+
+Started GET "/assets/twitter-bootstrap-static/fontawesome.self-2fe4f8a61d73606fbcb036b41f380591906a4da65a9eb5ec0a210fe6980b2ca7.css?body=1" for ::1 at 2017-12-22 15:32:11 -0500
+
+
+Started GET "/assets/bootstrap_and_overrides.self-2cb3834583dfbaf0a39c7139750bf963e05d79cbe811126997e013400be5d8dc.css?body=1" for ::1 at 2017-12-22 15:32:11 -0500
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-12-22 15:32:11 -0500
+
+
+Started GET "/assets/application.self-a4f350afbe071dfb70baf237f7f6124e2f780571d2ee8646ee754177ce827513.css?body=1" for ::1 at 2017-12-22 15:32:11 -0500
+
+
+Started GET "/assets/qr_codes.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2017-12-22 15:32:11 -0500
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/twitter/bootstrap.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/bootstrap.self-fdc98dee79ee88255e10cac6caa91338165cb76cf0d263744d8d90011fc2ef8f.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/qr_codes.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/assets/application.self-f98a0dd27ad1c55b2b9cfe97296d4887e5d4a4535b3bbbf9130c1050771738b2.js?body=1" for ::1 at 2017-12-22 15:32:12 -0500
+
+
+Started GET "/favicon.ico" for ::1 at 2017-12-22 15:32:12 -0500
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  actionpack (4.2.0) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+  c:/RailsInstaller/Ruby2.0.0/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (73.7ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (54.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (126.6ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:32:13 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 193ms (Views: 189.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:32:17 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LDH0SpM2td/Ir6FRnEHlzyGOgnZwcvbaH+2Ndk84cGXFoUZTuQrXDTgQNVxe3HZlUlY0jeKq5K7SiC6dOrb+Bw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 312ms (Views: 205.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:32:28 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LDH0SpM2td/Ir6FRnEHlzyGOgnZwcvbaH+2Ndk84cGXFoUZTuQrXDTgQNVxe3HZlUlY0jeKq5K7SiC6dOrb+Bw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 299ms (Views: 208.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:32:53 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LDH0SpM2td/Ir6FRnEHlzyGOgnZwcvbaH+2Ndk84cGXFoUZTuQrXDTgQNVxe3HZlUlY0jeKq5K7SiC6dOrb+Bw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 295ms (Views: 141.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:33:03 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LDH0SpM2td/Ir6FRnEHlzyGOgnZwcvbaH+2Ndk84cGXFoUZTuQrXDTgQNVxe3HZlUlY0jeKq5K7SiC6dOrb+Bw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 291ms (Views: 141.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:46:40 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LDH0SpM2td/Ir6FRnEHlzyGOgnZwcvbaH+2Ndk84cGXFoUZTuQrXDTgQNVxe3HZlUlY0jeKq5K7SiC6dOrb+Bw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 531ms (Views: 418.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:47:02 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LDH0SpM2td/Ir6FRnEHlzyGOgnZwcvbaH+2Ndk84cGXFoUZTuQrXDTgQNVxe3HZlUlY0jeKq5K7SiC6dOrb+Bw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 365ms (Views: 168.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:48:26 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LDH0SpM2td/Ir6FRnEHlzyGOgnZwcvbaH+2Ndk84cGXFoUZTuQrXDTgQNVxe3HZlUlY0jeKq5K7SiC6dOrb+Bw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 268ms (Views: 148.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:49:18 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"LDH0SpM2td/Ir6FRnEHlzyGOgnZwcvbaH+2Ndk84cGXFoUZTuQrXDTgQNVxe3HZlUlY0jeKq5K7SiC6dOrb+Bw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 377ms (Views: 251.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:49:50 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 152ms (Views: 149.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:49:56 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"kUqG1xs0xn4IDFFMgdKtAvGy8p7SD/LlT+wVwSF9yzp42jTOMQikrPizxUFDTz6ogmpEZUDX4JGCibYqVPNFWA==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 280ms (Views: 167.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:49:58 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 243ms (Views: 243.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:50:04 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"MKCDE1x8KgsP7W+rz9sZZFOVaksgKD/o5JRGGVbRaxLZMDEKdkBI2f9S+6YNRorOIE3csLLwLZwp8eXyI1/lcA==", "qr_code"=>{"text"=>"Test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 357ms (Views: 244.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:50:08 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 167ms (Views: 165.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:50:18 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8oQh2myA8Iqbq8Yg8QbkXHhkA97BqIZHlsxywBJ9JwEbFJPDRrySWGsUUi0zm3f2C7y1JVNwlDNbqdErZ/OpYw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 338ms (Views: 167.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:52:27 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8oQh2myA8Iqbq8Yg8QbkXHhkA97BqIZHlsxywBJ9JwEbFJPDRrySWGsUUi0zm3f2C7y1JVNwlDNbqdErZ/OpYw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 377ms (Views: 260.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:52:41 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8oQh2myA8Iqbq8Yg8QbkXHhkA97BqIZHlsxywBJ9JwEbFJPDRrySWGsUUi0zm3f2C7y1JVNwlDNbqdErZ/OpYw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 311ms (Views: 157.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:54:16 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8oQh2myA8Iqbq8Yg8QbkXHhkA97BqIZHlsxywBJ9JwEbFJPDRrySWGsUUi0zm3f2C7y1JVNwlDNbqdErZ/OpYw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (7.0ms)
+Completed 500 Internal Server Error in 129ms
+
+SyntaxError (c:/Sites/newtodo/app/views/qr_codes/create.html.erb:70: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...ew QR Code", new_qr_code_path :class=>"btn" );@output_buffer...
+...                               ^):
+  app/views/qr_codes/create.html.erb:70: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (182.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (88.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (243.6ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:54:35 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8oQh2myA8Iqbq8Yg8QbkXHhkA97BqIZHlsxywBJ9JwEbFJPDRrySWGsUUi0zm3f2C7y1JVNwlDNbqdErZ/OpYw==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 125ms
+
+SyntaxError (c:/Sites/newtodo/app/views/qr_codes/create.html.erb:70: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...ew QR Code", new_qr_code_path :class=>"btn" );@output_buffer...
+...                               ^):
+  app/views/qr_codes/create.html.erb:70: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (7.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (68.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (69.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (150.1ms)
+
+
+Started GET "/" for ::1 at 2017-12-22 15:54:45 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 209ms (Views: 208.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:54:47 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AkBsnVpqMZl9w/piEObqU+2Ain7fYFYP2UwkkJQh7bLr0N6EcFZTS418bm/Se3n5nlg8hU24RHsUKYd74a9j0A==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 188ms
+
+SyntaxError (c:/Sites/newtodo/app/views/qr_codes/create.html.erb:70: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...ew QR Code", new_qr_code_path :class=>"btn" );@output_buffer...
+...                               ^):
+  app/views/qr_codes/create.html.erb:70: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (66.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (68.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (146.6ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:55:15 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AkBsnVpqMZl9w/piEObqU+2Ain7fYFYP2UwkkJQh7bLr0N6EcFZTS418bm/Se3n5nlg8hU24RHsUKYd74a9j0A==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 198ms
+
+SyntaxError (c:/Sites/newtodo/app/views/qr_codes/create.html.erb:70: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+...ew QR Code", new_qr_code_path :class =>"btn" );@output_buffe...
+...                               ^):
+  app/views/qr_codes/create.html.erb:70: syntax error, unexpected tSYMBEG, expecting keyword_do or '{' or '('
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (6.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (67.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (75.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (158.1ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:55:39 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AkBsnVpqMZl9w/piEObqU+2Ain7fYFYP2UwkkJQh7bLr0N6EcFZTS418bm/Se3n5nlg8hU24RHsUKYd74a9j0A==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 366ms (Views: 249.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:55:54 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AkBsnVpqMZl9w/piEObqU+2Ain7fYFYP2UwkkJQh7bLr0N6EcFZTS418bm/Se3n5nlg8hU24RHsUKYd74a9j0A==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 339ms (Views: 168.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:56:04 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AkBsnVpqMZl9w/piEObqU+2Ain7fYFYP2UwkkJQh7bLr0N6EcFZTS418bm/Se3n5nlg8hU24RHsUKYd74a9j0A==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 362ms (Views: 171.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:56:17 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"AkBsnVpqMZl9w/piEObqU+2Ain7fYFYP2UwkkJQh7bLr0N6EcFZTS418bm/Se3n5nlg8hU24RHsUKYd74a9j0A==", "qr_code"=>{"text"=>"test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 362ms (Views: 169.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:56:35 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 249ms (Views: 248.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:57:16 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 500 Internal Server Error in 16ms
+
+SyntaxError (c:/Sites/newtodo/app/views/qr_codes/new.html.erb:61: syntax error, unexpected ',', expecting '='
+...put_buffer.append=( f.submit, , :class =>"btn btn-primary"  ...
+...                               ^):
+  app/views/qr_codes/new.html.erb:61: syntax error, unexpected ',', expecting '='
+
+
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/actionpack-4.2.0/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (62.1ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (61.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.0.0/lib/ruby/gems/2.0.0/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (142.6ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:57:32 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 170ms (Views: 169.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:58:44 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 185ms (Views: 184.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-22 15:59:21 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"TOO+HIoh8XKUqD9ni0jgw3ZPsdvTrnQ0okhS1PCCOculcwwFoB2ToGQXq2pJ1XNpBZcHIEF2ZkBvLfE/hQy3qQ==", "qr_code"=>{"text"=>"Test"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 313ms (Views: 165.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-22 15:59:24 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 180ms (Views: 180.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-23 23:59:50 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 288ms (Views: 283.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-24 00:00:18 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"bA1Kf5uzTF2NkFj/rumWL4xH3OuPLsF7ivP54H7Ig66FnfhmsY8uj30vzPJsdAWF/59qEB320w9HlloLC0YNzA==", "qr_code"=>{"text"=>"melissa loves matthew"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 364ms (Views: 217.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-24 00:01:12 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 252ms (Views: 248.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-24 00:01:28 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"O6BF34ZAwa1HJEcJEx486uVnHK6Zd/2dMv/DhxOzNjPSMPfGrHyjf7eb0wTRg69Alr+qVQuv7+n/mmBsZj24UQ==", "qr_code"=>{"text"=>"Matthew loves Melissa so much"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 1101ms (Views: 766.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-24 00:02:08 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"O6BF34ZAwa1HJEcJEx486uVnHK6Zd/2dMv/DhxOzNjPSMPfGrHyjf7eb0wTRg69Alr+qVQuv7+n/mmBsZj24UQ==", "qr_code"=>{"text"=>"Matthew loves Melissa so much"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 297ms (Views: 177.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/qr_codes" for ::1 at 2017-12-24 00:02:21 -0500
+Processing by QrCodesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"O6BF34ZAwa1HJEcJEx486uVnHK6Zd/2dMv/DhxOzNjPSMPfGrHyjf7eb0wTRg69Alr+qVQuv7+n/mmBsZj24UQ==", "qr_code"=>{"text"=>"Matthew loves Melissa so much"}, "commit"=>"Save Qr code"}
+  Rendered qr_codes/create.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 320ms (Views: 156.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/qr_codes/new" for ::1 at 2017-12-24 00:02:37 -0500
+Processing by QrCodesController#new as HTML
+  Rendered qr_codes/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 164ms (Views: 160.1ms | ActiveRecord: 0.0ms)
